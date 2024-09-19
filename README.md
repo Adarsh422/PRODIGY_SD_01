@@ -18,7 +18,7 @@ Temperature Conversion Program: A simple, intuitive, and easy-to-use app is crea
 1. Clone this repository:
 
    ```bash
-   https://github.com/Kumar-Arun-coder/PRODIGY_SD_01
+   https://github.com/Adarsh422/PRODIGY_SD_01
    ```
 
 2. Install dependencies using pip:
